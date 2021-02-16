@@ -1,2 +1,0 @@
-import bxin
-bxin.menu()
